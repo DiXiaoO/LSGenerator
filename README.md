@@ -21,3 +21,13 @@ fill_type:
 
 fill_color:
 SRGBA format! Like regular RGBA only divided by 255!
+
+After generating the ini file, place the images that you entered in LSConfig.txt in the data folder
+
+For the resulting mod to work, you need:
+
+LSMod.ini
+
+draw_2d.hlsl
+
+data/imgs...
